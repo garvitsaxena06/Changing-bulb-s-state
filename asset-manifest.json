@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Counter-App/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Counter-App/static/js/main.1ca3358d.chunk.js",
-    "main.js.map": "/Counter-App/static/js/main.1ca3358d.chunk.js.map",
-    "runtime-main.js": "/Counter-App/static/js/runtime-main.2f0243b8.js",
-    "runtime-main.js.map": "/Counter-App/static/js/runtime-main.2f0243b8.js.map",
-    "static/js/2.b2821e01.chunk.js": "/Counter-App/static/js/2.b2821e01.chunk.js",
-    "static/js/2.b2821e01.chunk.js.map": "/Counter-App/static/js/2.b2821e01.chunk.js.map",
-    "index.html": "/Counter-App/index.html",
-    "precache-manifest.56d0af6addcc5260a53892c1e739e5a8.js": "/Counter-App/precache-manifest.56d0af6addcc5260a53892c1e739e5a8.js",
-    "service-worker.js": "/Counter-App/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Counter-App/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b2821e01.chunk.js.LICENSE.txt": "/Counter-App/static/js/2.b2821e01.chunk.js.LICENSE.txt"
+    "main.css": "/Changing-bulb-s-state/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Changing-bulb-s-state/static/js/main.ee014d8a.chunk.js",
+    "main.js.map": "/Changing-bulb-s-state/static/js/main.ee014d8a.chunk.js.map",
+    "runtime-main.js": "/Changing-bulb-s-state/static/js/runtime-main.fdc88c4d.js",
+    "runtime-main.js.map": "/Changing-bulb-s-state/static/js/runtime-main.fdc88c4d.js.map",
+    "static/js/2.b2821e01.chunk.js": "/Changing-bulb-s-state/static/js/2.b2821e01.chunk.js",
+    "static/js/2.b2821e01.chunk.js.map": "/Changing-bulb-s-state/static/js/2.b2821e01.chunk.js.map",
+    "index.html": "/Changing-bulb-s-state/index.html",
+    "precache-manifest.80a99fd373fe39cda012f0d87f057155.js": "/Changing-bulb-s-state/precache-manifest.80a99fd373fe39cda012f0d87f057155.js",
+    "service-worker.js": "/Changing-bulb-s-state/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Changing-bulb-s-state/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b2821e01.chunk.js.LICENSE.txt": "/Changing-bulb-s-state/static/js/2.b2821e01.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f0243b8.js",
+    "static/js/runtime-main.fdc88c4d.js",
     "static/js/2.b2821e01.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1ca3358d.chunk.js"
+    "static/js/main.ee014d8a.chunk.js"
   ]
 }
